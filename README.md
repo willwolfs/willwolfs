@@ -38,15 +38,6 @@ I’m passionate about good-vibe music 🎶, which keeps me motivated while desi
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
  </p>
-        </div>
-        <hr width="100%">
-        <div>
-            <h2 align="center"> 💻 Github Contributions :electron: </h2>
-            <br>
-            <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebathang&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"
-                    alt="readme active graph" />
-            </div>
           
 <p align="center">
   <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
