@@ -47,7 +47,7 @@ I’m passionate about good-vibe music 🎶, which keeps me motivated while desi
 
 <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lVf2b?si=97a10ac7223d42e4">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lVf2b?si=97a10ac7223d42e4&nd=1&dlsi=06822aa81e2d47cd">
    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Saurav Spotify Playing" width="350" />
   </a>
 </p>
